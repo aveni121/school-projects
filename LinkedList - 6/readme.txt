@@ -1,0 +1,1 @@
+Put .h files in header files and put .cpp files in source files
